@@ -1,0 +1,11 @@
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsFramework\bin\Debug\GraphsFramework.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsFramework\bin\Debug\GraphsFramework.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsFramework\bin\Debug\WebDriver.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsFramework\bin\Debug\WebDriver.xml
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsFramework\obj\Debug\GraphsFramework.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsFramework\obj\Debug\GraphsFramework.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsFramework\obj\Debug\GraphsFramework.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsFramework\bin\Debug\nunit.framework.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsFramework\bin\Debug\nunit.framework.xml

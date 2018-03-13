@@ -1,0 +1,15 @@
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\obj\Debug\GraphsTests.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\GraphsTests.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\GraphsTests.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\GraphsFramework.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\WebDriver.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\WebDriver.Support.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\nunit.framework.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\GraphsFramework.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\WebDriver.xml
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\WebDriver.Support.xml
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\nunit.framework.xml
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\obj\Debug\GraphsTests.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\GraphsFramework\GraphsTests\obj\Debug\GraphsTests.pdb
