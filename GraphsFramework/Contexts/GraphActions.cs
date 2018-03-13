@@ -108,13 +108,8 @@ namespace GraphsFramework.Contexts
 
         public static void MoveToPosition2(int x, int y, IWebDriver driver)
         {
-            int countx = 0;
-            int county = 0;
-            int stepx = x > 0 ? 1 : -1;
-            int stepy = y > 0 ? 1 : -1;
             Actions action = new Actions(driver);
             action.MoveByOffset(x, y).Click().Build().Perform();             
-            county++;
         }
     }
 }
